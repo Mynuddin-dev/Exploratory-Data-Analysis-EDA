@@ -9,3 +9,7 @@
 - [What is Exploratory Data Analysis? - towardsdatascience](https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15)
 
 ## Follow
+- [Exploratory Data Analysis (EDA) Using Python | Edureka](https://www.youtube.com/watch?v=-o3AxdVcUtQ)
+- [Exploratory Data Analysis(EDA) of Titanic dataset | Krish Naik***](https://www.youtube.com/watch?v=Ea_KAcdv1vs)
+- [Krish Naik EDA Series***](https://www.youtube.com/watch?v=ioN1jcWxbv8&list=PLZoTAELRMXVPQyArDHyQVjQxjj_YmEuO9)
+- [Titanic - Machine Learning from Disaster | Kaggle](https://www.kaggle.com/c/titanic/code)
