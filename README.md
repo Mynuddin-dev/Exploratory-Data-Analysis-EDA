@@ -15,3 +15,10 @@
 - [Exploratory Data Analysis(EDA) of Titanic dataset | Krish Naik***](https://www.youtube.com/watch?v=Ea_KAcdv1vs)
 - [Krish Naik EDA Series***](https://www.youtube.com/watch?v=ioN1jcWxbv8&list=PLZoTAELRMXVPQyArDHyQVjQxjj_YmEuO9)
 - [Titanic - Machine Learning from Disaster | Kaggle](https://www.kaggle.com/c/titanic/code)
+
+## Automated EDA Libraries
+- [dtale](https://pypi.org/project/dtale/)
+- [pandas-visual-profiling](https://pypi.org/project/pandas-visual-analysis/)
+- [sweetviz](https://pypi.org/project/sweetviz/)
+- [dataprep](https://pypi.org/project/dataprep/)
+- [autoEDA-resources | github****](https://github.com/mstaniak/autoEDA-resources)
