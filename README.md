@@ -21,4 +21,4 @@
 - [pandas-visual-profiling](https://pypi.org/project/pandas-visual-analysis/)
 - [sweetviz](https://pypi.org/project/sweetviz/)
 - [dataprep](https://pypi.org/project/dataprep/)
-- [autoEDA-resources | github****](https://github.com/mstaniak/autoEDA-resources)
+- [autoEDA-resources | github(R and Python) ****](https://github.com/mstaniak/autoEDA-resources)
